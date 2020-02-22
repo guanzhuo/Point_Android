@@ -9,3 +9,4 @@
 
 4、图片进行滑动操作更新数据
 
+![image](https://github.com/guanzhuo/Point_Android/blob/master/9ed0b06074b2c9780ae894ccea7c675a.gif)
